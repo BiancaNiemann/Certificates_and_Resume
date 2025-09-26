@@ -66,8 +66,8 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
   - Gained expertise in data storytelling, ETL processes, and business intelligence reporting.
   - Trained in SQL (window functions, multiple joins, CTEs), Tableau (visualizations/dashboards), Python (Pandas, NumPy), and Spreadsheets (pivot tables, Vlookups, functions).
 
-### Codecademy
-**BI Data Analyticsl** _(Jan 2024– Jul 2024)_  
+### BI Data Analytics Certification 
+**Codecademy** _(Jan 2024– Jul 2024)_  
   - Acquired proficiency in MySQL, Python (specifically Pandas and Matplotlib), Exploratory Data Analysis (EDA), Data Visualization with Tableau and Excel, as well as Data Wrangling and Cleaning.
 
 ---
