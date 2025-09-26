@@ -5,13 +5,14 @@ Email: payrollsollutions@gmail.com | [LinkedIn](https://www.linkedin.com/in/bian
 ---
 
 ## 📌 Table of Contents
-- [About Me](#about-me)
-- [Work Experience](#work-experience)
-- [Projects](#projects)
-- [Skills](#skills)
+- [About Me](#About-Me)
+- [Work Experience](#Work-Experience)
+- [Education](#Education)
+- [Projects](#Projects)
+- [Skills](#Skills)
   - [Technical Skills](#technical-skills)
   - [Soft Skills](#soft-skills)
-- [Certificates](#certificates)
+- [Certificates](#Certificates)
 
 ---
 
@@ -54,20 +55,45 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
 ### Business owner, Payroll specialist, Bookkeeper 
 **Salarium** — Capetown, ZA _(Jul 2003 – Jun 2006)_  
 - Managed end-to-end payroll processing for approximately 4 clients, ensuring accurate time capture, timely month-end reporting, and compliant statutory submissions while collaborating closely with clients to resolve payroll discrepancies and ensureaccurate wage calculations.
+
+---
+
+## 💼 Education
+
+### Data Analytics Certification
+**Masterschool** _(Oct 2024– Jan 2025)_  
+  - Currently enrolled at Masterschool in the Data Analytics program, designed by industry leaders to train talented students using realworld problems.
+  - Gained expertise in data storytelling, ETL processes, and business intelligence reporting.
+  - Trained in SQL (window functions, multiple joins, CTEs), Tableau (visualizations/dashboards), Python (Pandas, NumPy), and Spreadsheets (pivot tables, Vlookups, functions).
+
+### Codecademy
+**BI Data Analyticsl** _(Jan 2024– Jul 2024)_  
+  - Acquired proficiency in MySQL, Python (specifically Pandas and Matplotlib), Exploratory Data Analysis (EDA), Data Visualization with Tableau and Excel, as well as Data Wrangling and Cleaning.
+
 ---
 
 ## 🚀 Projects
 
 ### [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Project)  
-_Tools: 
-  * dbt Core
-  * Big Query
-  * Airflow
-  * Looker Studio
+  - Pulled raw e-commerce data into BigQuery and used dbt Core to perform transformations, creating a star schema for analyticsready tables.
+  - Integrated and cleaned multiple data sources, standardizing columns to ensure consistency for downstream analytics.
+  - Orchestrated the ETL workflow with Airflow, automating data pipelines and table builds in BigQuery.
+  - Developed an interactive Looker Studio dashboard to visualize sales performance, customer behavior, and channel-specific trends.
+ 
+  - Tools Used
+     - dbt Core
+     - Big Query
+     - Airflow
+     - Looker Studio
+  
 
-### [GlobalMart Mini Project](https://github.com/BiancaNiemann/databricks_Global_Mart_Mini-Project)  
-_Tools: 
-  * Databricks
+### [GlobalMart Mini Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/databricks_Global_Mart_Mini-Project)  
+  - Cleaned and transformed raw sales data (duplicates, missing values, data types) using SQL within Databricks notebooks.
+  - Designed and implemented key sales metrics (total revenue, order counts, average order value, regional performance).
+  - Built an interactive sales dashboard in Databricks enabling analysis of total sales, top products, and sales trends over time.
+ 
+  - Tools Used
+     - databricks
 
 ---
 
