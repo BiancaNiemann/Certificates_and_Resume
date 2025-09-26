@@ -57,7 +57,7 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
 - Managed end-to-end payroll processing for approximately 4 clients, ensuring accurate time capture, timely month-end reporting, and compliant statutory submissions while collaborating closely with clients to resolve payroll discrepancies and ensureaccurate wage calculations.
 
 ---
-
+<a id="education"></a>
 ## 💼 Education
 
 ### Data Analytics Certification
@@ -71,7 +71,7 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
   - Acquired proficiency in MySQL, Python (specifically Pandas and Matplotlib), Exploratory Data Analysis (EDA), Data Visualization with Tableau and Excel, as well as Data Wrangling and Cleaning.
 
 ---
-
+<a id="projects"></a>
 ## 🚀 Projects
 
 ### [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Project)  
@@ -96,7 +96,7 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
      - databricks
 
 ---
-
+<a id="skills"></a>
 ## 🛠 Skills
 
 ### Technical Skills
@@ -113,7 +113,7 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
 - Empathy  
 
 ---
-
+<a id="certificates"></a>
 ## 📜 Certificates
 
 - [Google Data Analytics Certificate](https://github.com/BiancaNiemann/Certificates/blob/main/Data_Analyst_Certs/Coursera%20-%20Google%20Data%20Analytics%20Full%20Cert.pdf) — Coursera & Google _(Jun 2025)_  
