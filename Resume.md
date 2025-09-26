@@ -5,14 +5,23 @@ Email: payrollsollutions@gmail.com | [LinkedIn](https://www.linkedin.com/in/bian
 ---
 
 ## 📌 Table of Contents
-- [About Me](#About-Me)
-- [Work Experience](#Work-Experience)
-- [Education](#Education)
-- [Projects](#Projects)
-- [Skills](#Skills)
+- [About Me](#about-me)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [Projects](#projects)
+- [Skills](#skills)
   - [Technical Skills](#technical-skills)
   - [Soft Skills](#soft-skills)
-- [Certificates](#Certificates)
+- [Certificates](#certificates)
+
+- [About Me](#about-me)
+- [Work Experience](#work-experience)
+- [Education](#education)
+- [Projects](#projects)
+- [Skills](#skills)
+  - [Technical Skills](#technical-skills)
+  - [Soft Skills](#soft-skills)
+- [Certificates](#certificates)
 
 ---
 
