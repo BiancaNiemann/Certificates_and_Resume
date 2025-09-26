@@ -58,7 +58,7 @@ I’m seeking an entry-level data analytics role where I can combine my analytic
 
 ## 🚀 Projects
 
-### [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/ecomm_project)  
+### [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Project)  
 _Tools: 
   * dbt Core
   * Big Query
