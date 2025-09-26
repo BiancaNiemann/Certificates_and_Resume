@@ -14,17 +14,8 @@ Email: payrollsollutions@gmail.com | [LinkedIn](https://www.linkedin.com/in/bian
   - [Soft Skills](#soft-skills)
 - [Certificates](#certificates)
 
-- [About Me](#about-me)
-- [Work Experience](#work-experience)
-- [Education](#education)
-- [Projects](#projects)
-- [Skills](#skills)
-  - [Technical Skills](#technical-skills)
-  - [Soft Skills](#soft-skills)
-- [Certificates](#certificates)
-
 ---
-
+<a id="about-me"></a>
 ## 👤 About Me
 I’m a BI & Data Analyst with a strong foundation in SQL, Python, Tableau, BigQuery, dbt, and Databricks — passionate about transforming complex datasets into clear, actionable insights.
 
@@ -48,7 +39,7 @@ What I Bring
 I’m seeking an entry-level data analytics role where I can combine my analytical skills with my financial background to deliver valuable insights and support data-driven decision-making. I’m eager to contribute to impactful projects in a collaborative, innovative environment while continuing to grow my technical expertise.
 
 ---
-
+<a id="work-experience"></a>
 ## 💼 Work Experience
 
 ### Kitchen Operations Assistant
