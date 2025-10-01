@@ -1,6 +1,6 @@
 # Bianca Niemann
 
-Email: payrollsollutions@gmail.com | [LinkedIn](https://www.linkedin.com/in/bianca-niemann/) | [GitHub](https://github.com/BiancaNiemann) | [Portfolio](https://payrollsollutions.wixsite.com/bianca-niemann)
+Email: biancaniemann45@outlook.com | [LinkedIn](https://www.linkedin.com/in/bianca-niemann/) | [GitHub](https://github.com/BiancaNiemann) | [Portfolio](https://payrollsollutions.wixsite.com/bianca-niemann)
 
 ---
 
